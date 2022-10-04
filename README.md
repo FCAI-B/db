@@ -1,4 +1,4 @@
-# db
+# DB
 
 ## Lectures
 - **Lecture 1** 
