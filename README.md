@@ -1,7 +1,7 @@
 # DB
 
-- The above file has been updated, including the 22 October lecturer.
-- The demo in the lecturer will be added soon.
+- The above file has been updated, including the 22 October lecture.
+- 22 October lecture demo: will be added soon. <!-- https://drive.google.com/file/d/1NWMSHW3gn9klcuioUaGYwwG19I2QJOvt/view?usp=sharing -->
 
 <!-- 
 ## Lectures
