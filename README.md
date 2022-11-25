@@ -1,12 +1,13 @@
 # DB
 
 ### Zoom Link
+```diff
+- Tomorrow, the 26 Nov lecture will be online on the below zoom link.
+```
 https://us05web.zoom.us/j/84567940896?pwd=MFFrbjl2MkdoQnMwMHdtWjJjbCs5dz09
 
 
-```diff
-- 12 Nov lecture will be online on the above zoom link.
-```
+
 
 ### Demos in Lectures 
 - 22 Oct lecture demo: https://drive.google.com/file/d/1NWMSHW3gn9klcuioUaGYwwG19I2QJOvt
