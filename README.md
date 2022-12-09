@@ -1,13 +1,12 @@
 # DB
 
-### Zoom Link
+
 ```diff
-- Tomorrow, the 26 Nov lecture will be online on the below zoom link.
+- The 10 Dec lecture will be postponed. I will not be in the faculty tomorrow.
 ```
-https://us05web.zoom.us/j/84567940896?pwd=MFFrbjl2MkdoQnMwMHdtWjJjbCs5dz09
 
-
-
+### Zoom Link
+- https://us05web.zoom.us/j/84567940896?pwd=MFFrbjl2MkdoQnMwMHdtWjJjbCs5dz09
 
 ### Demos in Lectures 
 - 22 Oct lecture demo: https://drive.google.com/file/d/1NWMSHW3gn9klcuioUaGYwwG19I2QJOvt
