@@ -1,9 +1,10 @@
 # DB
 
-
+<!--
 ```diff
 - The 10 Dec lecture will be postponed. I will not be in the faculty tomorrow.
 ```
+-->
 
 ### Zoom Link
 - https://us05web.zoom.us/j/84567940896?pwd=MFFrbjl2MkdoQnMwMHdtWjJjbCs5dz09
