@@ -1,5 +1,12 @@
 # DB
 
+
+
+```diff
+- The 17 Dec lecture will be in the faculty. Insha Allah, see you all tomorrow.
+```
+
+
 <!--
 ```diff
 - The 10 Dec lecture will be postponed. I will not be in the faculty tomorrow.
