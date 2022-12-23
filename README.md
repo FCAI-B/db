@@ -3,7 +3,8 @@
 
 
 ```diff
-- The 17 Dec lecture will be in the faculty. Insha Allah, see you all tomorrow.
+- For now, we will not have an online quiz. I wish you all the best in all your final exams.
++ The last lecture will be uploaded soon.
 ```
 
 
