@@ -4,7 +4,7 @@
 
 ```diff
 - For now, we will not have an online quiz. I wish you all the best in all your final exams.
-+ The last lecture will be uploaded soon.
++ The last lecture is now part of the file GC-DB-2.pdf.
 ```
 
 
